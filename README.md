@@ -20,7 +20,7 @@ Site link: https://cli-commands-0-production.up.railway.app/swagger-ui/index.htm
 > - Docker (Multi-Container Application)
 > - Railway (Deployment: Github repo + SQL database)
 
-<br/>
+
 
 ### Application Architecture:
 
@@ -30,7 +30,6 @@ Site link: https://cli-commands-0-production.up.railway.app/swagger-ui/index.htm
 <img src="src/main/resources/imagesForGithub/architecture2.gif" width="600">
 </p>
 
-<br/>
 
 ### Website Look:
 
