@@ -7,13 +7,11 @@ import java.util.Objects;
 @Entity
 public class Command {
     @Id
-    @GeneratedValue(
-            strategy = GenerationType.SEQUENCE
-    )
+    @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Integer id;
     private String description;
     private String line;
-    LocalDateTime created_at;
+    private LocalDateTime created_at;
 
     public Command(Integer id, String description, String line, LocalDateTime created_at) {
         this.id = id;
