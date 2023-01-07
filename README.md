@@ -1,12 +1,12 @@
 # CLI Commands REST API (Java Spring Boot)
 Site link: https://cli-commands-0-production.up.railway.app/swagger-ui/index.html /commands-controller
 
-#### With the plethora of CLI commands to learn, it is helpful to have an API which returns us commands that we often forget. This Commands API stores command line snippets along with a short description of what it does.(, as well as which platform it's for).
+#### With the plethora of CLI commands to learn, it is helpful to have an API which returns us commands that we often forget. This Commands API stores command line snippets along with a short description of what it does.
 ### The purpose of this project is to learn and practice concepts related to:
-> - Building a REST API
 > - Java Spring Boot
-> - 3-tier Architectural Pattern
-> - ...
+> - Building a REST API
+> - 3-Tier Architectural Pattern
+> - Containerizing applications using Docker
 
 #### More specifically, I used the following:
 > - Dependency injection
@@ -17,10 +17,9 @@ Site link: https://cli-commands-0-production.up.railway.app/swagger-ui/index.htm
 > - HTTP (GET, POST, PUT, DELETE, status codes)
 > - Testing API Endpoints (SwaggerUI & Postman)
 > - Unit testing (Mockito & AssertJ)
-> -> Docker (Container, Image, Deploying on Docker Hub)
+> - Docker (Multi-Container Application)
 > - Railway (Deployment: Github repo + SQL database)
 
-*Note: ..*
 
 ### Website Look:
 
