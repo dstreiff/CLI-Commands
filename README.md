@@ -21,14 +21,17 @@ Site link: https://cli-commands-0-production.up.railway.app/swagger-ui/index.htm
 > - Railway (Deployment: Github repo + SQL database)
 
 <br/>
+
 ### Application Architecture:
 
 <br/>
+
 <p align="center">
 <img src="src/main/resources/imagesForGithub/architecture2.gif" width="600">
 </p>
 
 <br/>
+
 ### Website Look:
 
 ![image](src/main/resources/imagesForGithub/screenshot.PNG)
