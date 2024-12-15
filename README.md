@@ -1,5 +1,4 @@
 # CLI Commands REST API (Java Spring Boot)
-Site link: https://cli-commands.up.railway.app/swagger-ui/index.html#/command-controller
 
 #### With the plethora of CLI commands to learn, it is helpful to have an API which returns us commands that we often forget. This Commands API stores command line snippets along with a short description of what it does.
 ### The purpose of this project is to learn and practice concepts related to:
